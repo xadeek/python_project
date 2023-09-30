@@ -1,0 +1,37 @@
+.facebooktext{
+    color:blue;
+}
+.fatext{
+    color: blue;
+}
+.LOGIN{
+    background-color:blue;
+    color: azure;
+    width:250px;
+    height:25px
+}
+.CREATENEWACCOUNT{
+    background-color: darkgreen;
+    color: azure;
+    width:250px;
+    height:35px;
+} 
+body{
+    background-color: gainsboro;
+}
+#text{
+    text-align: center;
+}
+.card{
+    margin:0 auto;
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+text-align: center;
+    box-shadow: 1px 1px 10px 10px green;
+     border-radius: 10px 10px 10px 10px;
+     
+}
+h1{
+    text-align: center;
+}
